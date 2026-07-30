@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Candidate in Computer Vision & AI, Sungkyunkwan University, South Korea (in progress)
+  * Advisor: Prof. Jae Wook Jeon
+* B.S. in Engineering, <!-- TODO: update with your bachelor's degree, university, and year -->
 
-Work experience
+Research interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Computer vision for intelligent transportation systems
+* Traffic surveillance and vehicle detection under occlusion and adverse weather
+* Multi-camera multi-target 3D tracking
+* Robust object detection on fisheye cameras
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experience
+======
+* Present: Graduate Research Assistant
+  * Sungkyunkwan University, Suwon, South Korea
+  * Research on traffic surveillance benchmarks, 3D tracking, and robust object detection
+  * Supervisor: Prof. Jae Wook Jeon
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, PyTorch, OpenCV
+* Deep learning for object detection and multi-object tracking
+* Multi-camera systems and bird's-eye-view (BEV) perception
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
