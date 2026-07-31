@@ -19,6 +19,8 @@ Education
 
 Honors and awards
 ======
+* 2026: First Place, Track 1, AI City Challenge, CVPR Workshop
+* 2026: Second Place, Track 6, AI City Challenge, CVPR Workshop
 * 2025: Second Place, Track 1, AI City Challenge, CVPR Workshop
 * 2025: 5th Place, Track 6, AI City Challenge, CVPR Workshop
 * 2023: Software registration — Vehicle Speed Estimation in the Intelligent Transportation System, Government of the Republic of Korea
@@ -37,10 +39,14 @@ Research interests
 
 Experience
 ======
-* Present: Graduate Research Assistant
+* 2022.03 – present: Graduate Research Assistant
   * Sungkyunkwan University, Suwon, South Korea
-  * Research on traffic surveillance benchmarks, 3D tracking, and robust object detection
+  * Research on computer vision, deep learning, and machine learning; contributor to a Korean government-funded intelligent traffic monitoring system
   * Supervisor: Prof. Jae Wook Jeon
+* 2020.10 – 2021: Software Engineer
+  * LG R&D Vietnam, Hanoi, Vietnam
+* 2019.08 – 2019.12: Computer Vision Engineer (Internship)
+  * Viettel Group, Hanoi, Vietnam
 
 Skills
 ======

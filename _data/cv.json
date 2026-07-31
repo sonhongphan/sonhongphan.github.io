@@ -38,6 +38,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Automatic Method of Camera Calibration for The Traffic Surveillance",
+      "publisher": "IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)",
+      "releaseDate": "2022-10-26",
+      "website": "https://doi.org/10.1109/ICCE-Asia57006.2022.9954700",
+      "summary": "An automatic camera calibration method for traffic surveillance using edge extraction, Hough-transform line interpolation, and vanishing points."
+    },
+    {
       "name": "DepthTrack: Cluster Meets BEV for Multi-Camera Multi-Target 3D Tracking",
       "publisher": "IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
       "releaseDate": "2025-10-01",
