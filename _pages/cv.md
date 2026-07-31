@@ -32,10 +32,13 @@ Honors and awards
 
 Research interests
 ======
-* Computer vision for intelligent transportation systems
+* Computer vision, machine learning, and deep learning for intelligent transportation systems
 * Traffic surveillance and vehicle detection under occlusion and adverse weather
 * Multi-camera multi-target 3D tracking
 * Robust object detection on fisheye cameras
+* Video stabilization
+* Vehicle speed estimation
+* Design, optimization, and deployment of deep neural network architectures
 
 Experience
 ======
