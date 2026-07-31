@@ -9,7 +9,7 @@ author_profile: true
 
 Học vấn
 ======
-* Nghiên cứu sinh Tiến sĩ chuyên ngành Thị giác máy tính & Học máy, Đại học Sungkyunkwan, Hàn Quốc, 03/2022 – 03/2027 (dự kiến)
+* Nghiên cứu sinh Tiến sĩ chuyên ngành Computer Vision & Machine Learning, Đại học Sungkyunkwan, Hàn Quốc, 03/2022 – 03/2027 (dự kiến)
   * GPA: 4.17/4.5
   * Giáo sư hướng dẫn: GS. Jae Wook Jeon
 * Kỹ sư, Chương trình Kỹ sư Tài năng, Đại học Bách khoa Hà Nội, Việt Nam, 09/2015 – 09/2020
@@ -23,7 +23,7 @@ Danh hiệu và giải thưởng
 * 2025: Hạng 5, Track 6, AI City Challenge, CVPR Workshop
 * 2023: Đăng ký bản quyền phần mềm — Ước tính tốc độ phương tiện trong Hệ thống giao thông thông minh, Chính phủ Hàn Quốc
 * 2020: Học bổng FPT, Tập đoàn FPT
-* 2019: Giải Đồng, Olympic Cơ học Toàn quốc 2019, Hội Cơ học Việt Nam
+* 2019: Huy Chương Đồng, Olympic Cơ học Toàn quốc 2019, Hội Cơ học Việt Nam
 * 2019: Giải thưởng nghiên cứu khoa học cấp trường, Đại học Bách khoa Hà Nội
 * 2019: Sinh viên tiêu biểu, Chủ tịch UBND tỉnh Ninh Bình trao tặng
 * 2015 – 2016: Học bổng toàn phần, Đại học Bách khoa Hà Nội

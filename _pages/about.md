@@ -50,7 +50,7 @@ Publications
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCE-Asia 2022</div><img src="/images/papers/calib.svg" alt="Automatic camera calibration" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCE-Asia 2022</div><img src="/images/papers/calib.png" alt="Automatic camera calibration" width="100%" /></div></div>
 <div class="paper-box-text">
 <p><a href="https://doi.org/10.1109/ICCE-Asia57006.2022.9954700">Automatic Method of Camera Calibration for The Traffic Surveillance</a></p>
 <p><strong>Son Hong Phan</strong>, Long Hoang Pham, Duong Nguyen-Ngoc Tran, Jae Wook Jeon</p>
