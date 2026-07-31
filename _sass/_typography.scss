@@ -53,6 +53,12 @@ h2 {
   }
 }
 
+/* Fill the full content width: the theme reserves ~17% right padding on
+   single-layout pages for a TOC rail we don't use (reference sets it to 0). */
+.page {
+  padding-right: 0;
+}
+
 /* List pages (publications, CV archives) use full-size excerpts like the reference */
 .archive__item-excerpt,
 .grid__item .archive__item-excerpt {
