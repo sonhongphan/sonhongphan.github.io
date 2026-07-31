@@ -52,7 +52,7 @@ Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran,
 * _2023_ Software registration: Vehicle Speed Estimation in the Intelligent Transportation System, Government of the Republic of Korea.
 * _2020_ FPT Scholarship, FPT Group.
 * _2019_ Bronze Prize, National Mechanics Olympiad, Vietnam National Mechanics Association.
-* _2019_ University-level Scientific Research Award, Hanoi University of Science and Technology.
+* _2019_ University-level Scientific Research Award, Hanoi University of Science and Technology [see](https://www.youtube.com/watch?v=OcuQsfsY1XQ).
 * _2019_ Outstanding Student, awarded by the Chairman of Ninh Binh Province.
 * _2015 - 2016_ Full Scholarship, Hanoi University of Science and Technology.
 
@@ -65,5 +65,9 @@ Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran,
 📄 Experiences
 ======
 
-* _2022.03 - present_, Graduate Research Assistant, Sungkyunkwan University, Suwon, South Korea — research on traffic surveillance, multi-camera 3D tracking, and robust object detection; contributor to a Korean government-funded intelligent traffic monitoring system.
+* _2022.03 - present_, Graduate Research Assistant, Sungkyunkwan University, Suwon, South Korea — research on computer vision, deep learning, machine learning; contributor to a Korean government-funded intelligent traffic monitoring system.
+* _2020.10 - 2021_, Software Engineer, LG R&D Vietnam, Hanoi, Vietnam.
+* _2019.08 - 2019.12_, Computer Vision Engineer (Internship), Viettel Group, Hanoi, Vietnam.
+
+
 
