@@ -22,6 +22,7 @@ Danh hiệu và giải thưởng
 * 2025: Giải Nhì, Track 1, AI City Challenge, CVPR Workshop
 * 2025: Hạng 5, Track 6, AI City Challenge, CVPR Workshop
 * 2023: Đăng ký bản quyền phần mềm — Ước tính tốc độ phương tiện trong Hệ thống giao thông thông minh, Chính phủ Hàn Quốc
+* 2022: Học bổng toàn phần chương trình Tiến sĩ ngành Computer Vision & Machine Learning, Đại học Sungkyunkwan
 * 2020: Học bổng FPT, Tập đoàn FPT
 * 2019: Huy Chương Đồng, Olympic Cơ học Toàn quốc 2019, Hội Cơ học Việt Nam
 * 2019: Giải thưởng nghiên cứu khoa học cấp trường, Đại học Bách khoa Hà Nội

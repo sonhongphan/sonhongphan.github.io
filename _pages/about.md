@@ -66,6 +66,7 @@ Publications
 * _2025_ Second Place, Track 1, AI City Challenge, CVPR Workshop.
 * _2025_ 5th Place, Track 6, AI City Challenge, CVPR Workshop.
 * _2023_ Software registration: Vehicle Speed Estimation in the Intelligent Transportation System, Government of the Republic of Korea.
+* _2022_ Full scholarship for the Ph.D. degree in Computer Vision & Machine Learning, Sungkyunkwan University.
 * _2020_ FPT Scholarship, FPT Group.
 * _2019_ Bronze Prize, National Mechanics Olympiad, Vietnam National Mechanics Association.
 * _2019_ University-level Scientific Research Award, Hanoi University of Science and Technology [see](https://www.youtube.com/watch?v=OcuQsfsY1XQ).
