@@ -54,15 +54,19 @@
   @media (min-width: 48em) {
     .paper-box-image {
       justify-content: center;
+      width: auto;
+      flex: 0 0 auto;
       min-width: 200px;
-      max-width: 40%;
+      max-width: 340px;
       order: 1;
     }
 
     .paper-box-text {
       justify-content: left;
+      flex: 1 1 0;
+      min-width: 0;
       padding-left: 2em;
-      max-width: 60%;
+      max-width: none;
       order: 2;
     }
   }
