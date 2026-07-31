@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Vision & AI at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/), Suwon, South Korea, working in the group of Prof. Jae Wook Jeon. My research focuses on computer vision for intelligent transportation systems — traffic surveillance, robust object detection, and multi-camera multi-target 3D tracking.
+I am a Ph.D. candidate in Computer Vision & AI at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/), Suwon, South Korea, working in the group of Prof. Jae Wook Jeon. 
 
-I am particularly interested in building perception systems that stay reliable under real-world conditions: occlusion, adverse weather, and distorted (fisheye) camera geometries.
+Machine learning and computer vision research with over five years of experience delivering research and production solutions in computer vision, machine learning, and deep learning. I have contributed to major projects, including a Korean government-funded intelligent traffic monitoring system.
+My expertise spans the full lifecycle of neural network development — researching, designing, optimizing, and deploying deep learning architectures. With a strong foundation in probability and the mathematics underlying machine learning, I combine theoretical depth with hands-on proficiency in Python and modern deep learning frameworks.
 
-You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=o8U2DnMAAAAJ&hl=en) and reach me at `skku.boot10 [at] gmail.com`.
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=o8U2DnMAAAAJ&hl=en) and reach me at `son.kstn.bk@gmail.com`.
 
 Recent news
 ======
@@ -36,3 +37,22 @@ Tai Huu-Phuong Tran, Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Chi Dai Tran,
 Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran, Duong Nguyen-Ngoc Tran, Tai Huu-Phuong Tran, Ngoc Doan-Minh Huynh, Hyung-Joon Jeon, Hyung-Min Jeon, **Son Hong Phan**, Trinh Le Ba Khanh, Jae Wook Jeon
 *IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025*
 [[paper]](https://doi.org/10.1109/ICCVW69036.2025.00563)
+
+🎖 Honors and Awards
+======
+
+* _2025_ Second Place, Track 1, AI City Challenge, CVPR Workshop.
+* _2025_ 5th Place, Track 6, AI City Challenge, CVPR Workshop.
+* _2023_ Software registration: Vehicle Speed Estimation in the Intelligent Transportation System, Government of the Republic of Korea.
+* _2020_ FPT Scholarship, FPT Group.
+* _2019_ Bronze Prize, National Mechanics Olympiad, Vietnam National Mechanics Association.
+* _2019_ University-level Scientific Research Award, Hanoi University of Science and Technology.
+* _2019_ Outstanding Student, awarded by the Chairman of Ninh Binh Province.
+* _2015 - 2016_ Full Scholarship, Hanoi University of Science and Technology.
+
+📖 Educations
+======
+
+* _2022.03 - 2027.03 (expected)_, Ph.D. in Computer Vision & Machine Learning, Sungkyunkwan University, Suwon, South Korea. GPA: 4.17/4.5.
+* _2015.09 - 2020.09_, Engineer's degree, Talent Program, Hanoi University of Science and Technology, Vietnam. GPA: 3.44/4.0 (Very Good).
+
