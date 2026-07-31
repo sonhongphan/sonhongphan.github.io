@@ -23,11 +23,38 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 1em 0 0.5em;
+  font-weight: bold;
+}
+
 h1 {
   margin-top: 1em;
   font-size: 1.4em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #f2f3f3;
 }
 
 h2 {
   font-size: 1.2em;
+}
+
+/* Sidebar sizing to match the reference (theme default shrinks these to 0.75em) */
+.sidebar p,
+.sidebar li {
+  font-size: 1em;
+}
+
+.sidebar .author__name {
+  font-size: 1.2em;
+
+  @include breakpoint($large) {
+    font-size: 1.4em;
+  }
+}
+
+/* List pages (publications, CV archives) use full-size excerpts like the reference */
+.archive__item-excerpt,
+.grid__item .archive__item-excerpt {
+  font-size: 1em;
 }
