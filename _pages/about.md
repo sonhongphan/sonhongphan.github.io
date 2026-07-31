@@ -32,7 +32,7 @@ Publications
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCVW 2025</div><img src="/images/papers/depthtrack.svg" alt="DepthTrack" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCVW 2025</div><img src="/images/papers/depthtrack.png" alt="DepthTrack" width="100%" /></div></div>
 <div class="paper-box-text">
 <p><a href="https://doi.org/10.1109/ICCVW69036.2025.00558">DepthTrack: Cluster Meets BEV for Multi-Camera Multi-Target 3D Tracking</a></p>
 <p>Tai Huu-Phuong Tran, Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Chi Dai Tran, Long Hoang Pham, Quoc Pham-Nam Ho, Huy-Hung Nguyen, Duong Khac Vu, Hyung-Min Jeon, Hyung-Joon Jeon, <strong>Son Hong Phan</strong>, Trinh Le Ba Khanh, Jae Wook Jeon</p>
@@ -41,7 +41,7 @@ Publications
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCVW 2025</div><img src="/images/papers/fisheye.svg" alt="Fisheye object detection" width="100%" /></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCVW 2025</div><img src="/images/papers/fisheye.png" alt="Fisheye object detection" width="100%" /></div></div>
 <div class="paper-box-text">
 <p><a href="https://doi.org/10.1109/ICCVW69036.2025.00563">Data Augmentation is All You Need for Robust Fisheye Object Detection</a></p>
 <p>Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran, Duong Nguyen-Ngoc Tran, Tai Huu-Phuong Tran, Ngoc Doan-Minh Huynh, Hyung-Joon Jeon, Hyung-Min Jeon, <strong>Son Hong Phan</strong>, Trinh Le Ba Khanh, Jae Wook Jeon</p>
@@ -82,7 +82,7 @@ Publications
 ======
 
 * _2022.03 - present_, Graduate Research Assistant, Sungkyunkwan University, Suwon, South Korea — research on computer vision, deep learning, machine learning; contributor to a Korean government-funded intelligent traffic monitoring system.
-* _2020.10 - 2021_, Software Engineer, LG R&D Vietnam, Hanoi, Vietnam.
+* _2020.10 - 2021.11_, Software Engineer, LG R&D Vietnam, Hanoi, Vietnam.
 * _2019.08 - 2019.12_, Computer Vision Engineer (Internship), Viettel Group, Hanoi, Vietnam.
 
 
