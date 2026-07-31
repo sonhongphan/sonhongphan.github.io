@@ -51,8 +51,9 @@
     font-size: 0.8em;
   }
 
-  @media (min-width: 64em) {
+  @media (min-width: 48em) {
     .paper-box-image {
+      justify-content: center;
       min-width: 200px;
       max-width: 40%;
       order: 1;
