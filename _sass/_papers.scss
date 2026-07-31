@@ -1,0 +1,68 @@
+/* Publication entries on the homepage: teaser image left, paper info right.
+   Layout adapted from liangheng121.github.io (Minimal Light style). */
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #efefef;
+  padding: 2em 0;
+
+  .paper-box-image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    order: 2;
+
+    > div {
+      position: relative;
+      display: block;
+      width: 100%;
+      max-width: 400px;
+    }
+
+    img {
+      width: 100%;
+      max-width: 400px;
+      box-shadow: 3px 3px 6px #888;
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+
+    p {
+      margin: 0 0 0.6em;
+    }
+  }
+
+  .badge {
+    position: absolute;
+    margin-top: 0.5em;
+    margin-left: -0.5em;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #fff;
+    background-color: #00369f;
+    font-size: 0.8em;
+  }
+
+  @media (min-width: 64em) {
+    .paper-box-image {
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 60%;
+      order: 2;
+    }
+  }
+}

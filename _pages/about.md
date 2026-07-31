@@ -23,25 +23,41 @@ Recent news
 Publications
 ======
 
-**TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions**
-Ngoc Doan-Minh Huynh, Duong Nguyen-Ngoc Tran, Long Hoang Pham, Tai Huu-Phuong Tran, Hyung-Joon Jeon, Huy-Hung Nguyen, Duong Khac Vu, Hyung-Min Jeon, **Son Hong Phan**, Quoc Pham-Nam Ho, Chi Dai Tran, Trinh Le Ba Khanh, Jae Wook Jeon
-*AAAI Conference on Artificial Intelligence (AAAI), 2026*
-[[paper]](https://doi.org/10.1609/aaai.v40i7.37439) [[arXiv]](https://doi.org/10.48550/arXiv.2602.05414)
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="/images/papers/tsbow.jpg" alt="TSBOW dataset scenes" width="100%" /></div></div>
+<div class="paper-box-text">
+<p><a href="https://doi.org/10.1609/aaai.v40i7.37439">TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions</a></p>
+<p>Ngoc Doan-Minh Huynh, Duong Nguyen-Ngoc Tran, Long Hoang Pham, Tai Huu-Phuong Tran, Hyung-Joon Jeon, Huy-Hung Nguyen, Duong Khac Vu, Hyung-Min Jeon, <strong>Son Hong Phan</strong>, Quoc Pham-Nam Ho, Chi Dai Tran, Trinh Le Ba Khanh, Jae Wook Jeon</p>
+<p><em>AAAI Conference on Artificial Intelligence (AAAI), 2026</em></p>
+<p><a href="https://doi.org/10.1609/aaai.v40i7.37439">[Paper]</a> <a href="https://doi.org/10.48550/arXiv.2602.05414">[arXiv]</a></p>
+</div>
+</div>
 
-**DepthTrack: Cluster Meets BEV for Multi-Camera Multi-Target 3D Tracking**
-Tai Huu-Phuong Tran, Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Chi Dai Tran, Long Hoang Pham, Quoc Pham-Nam Ho, Huy-Hung Nguyen, Duong Khac Vu, Hyung-Min Jeon, Hyung-Joon Jeon, **Son Hong Phan**, Trinh Le Ba Khanh, Jae Wook Jeon
-*IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025*
-[[paper]](https://doi.org/10.1109/ICCVW69036.2025.00558)
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCVW 2025</div><img src="/images/papers/depthtrack.svg" alt="DepthTrack" width="100%" /></div></div>
+<div class="paper-box-text">
+<p><a href="https://doi.org/10.1109/ICCVW69036.2025.00558">DepthTrack: Cluster Meets BEV for Multi-Camera Multi-Target 3D Tracking</a></p>
+<p>Tai Huu-Phuong Tran, Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Chi Dai Tran, Long Hoang Pham, Quoc Pham-Nam Ho, Huy-Hung Nguyen, Duong Khac Vu, Hyung-Min Jeon, Hyung-Joon Jeon, <strong>Son Hong Phan</strong>, Trinh Le Ba Khanh, Jae Wook Jeon</p>
+<p><em>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025</em></p>
+<p><a href="https://doi.org/10.1109/ICCVW69036.2025.00558">[Paper]</a></p>
+</div>
+</div>
 
-**Data Augmentation is All You Need for Robust Fisheye Object Detection**
-Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran, Duong Nguyen-Ngoc Tran, Tai Huu-Phuong Tran, Ngoc Doan-Minh Huynh, Hyung-Joon Jeon, Hyung-Min Jeon, **Son Hong Phan**, Trinh Le Ba Khanh, Jae Wook Jeon
-*IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025*
-[[paper]](https://doi.org/10.1109/ICCVW69036.2025.00563)
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCVW 2025</div><img src="/images/papers/fisheye.svg" alt="Fisheye object detection" width="100%" /></div></div>
+<div class="paper-box-text">
+<p><a href="https://doi.org/10.1109/ICCVW69036.2025.00563">Data Augmentation is All You Need for Robust Fisheye Object Detection</a></p>
+<p>Long Hoang Pham, Quoc Pham-Nam Ho, Duong Khac Vu, Huy-Hung Nguyen, Chi Dai Tran, Duong Nguyen-Ngoc Tran, Tai Huu-Phuong Tran, Ngoc Doan-Minh Huynh, Hyung-Joon Jeon, Hyung-Min Jeon, <strong>Son Hong Phan</strong>, Trinh Le Ba Khanh, Jae Wook Jeon</p>
+<p><em>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2025</em></p>
+<p><a href="https://doi.org/10.1109/ICCVW69036.2025.00563">[Paper]</a></p>
+</div>
+</div>
 
-**Automatic Method of Camera Calibration for The Traffic Surveillance**
-**Son Hong Phan**, Long Hoang Pham, Duong Nguyen-Ngoc Tran, Jae Wook Jeon
-*IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), 2022*
-[[paper]](https://doi.org/10.1109/ICCE-Asia57006.2022.9954700)
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCE-Asia 2022</div><img src="/images/papers/calib.svg" alt="Automatic camera calibration" width="100%" /></div></div>
+<div class="paper-box-text">
+<p><a href="https://doi.org/10.1109/ICCE-Asia57006.2022.9954700">Automatic Method of Camera Calibration for The Traffic Surveillance</a></p>
+<p><strong>Son Hong Phan</strong>, Long Hoang Pham, Duong Nguyen-Ngoc Tran, Jae Wook Jeon</p>
+<p><em>IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), 2022</em></p>
+<p><a href="https://doi.org/10.1109/ICCE-Asia57006.2022.9954700">[Paper]</a></p>
+</div>
+</div>
 
 🎖 Honors and Awards
 ======
