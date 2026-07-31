@@ -14,5 +14,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "CV (Tiếng Việt)"
+    url: /cv-vn/
+
   # - title: "CV"
   #   url: /cv-json/

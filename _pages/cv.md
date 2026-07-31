@@ -46,7 +46,7 @@ Experience
   * Sungkyunkwan University, Suwon, South Korea
   * Research on computer vision, deep learning, and machine learning; contributor to a Korean government-funded intelligent traffic monitoring system
   * Supervisor: Prof. Jae Wook Jeon
-* 2020.10 – 2021: Software Engineer
+* 2020.10 – 2021.11: Software Engineer
   * LG R&D Vietnam, Hanoi, Vietnam
 * 2019.08 – 2019.12: Computer Vision Engineer (Internship)
   * Viettel Group, Hanoi, Vietnam
