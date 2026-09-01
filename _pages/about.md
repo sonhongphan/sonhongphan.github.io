@@ -24,21 +24,23 @@ Recent news
 Publications
 ======
 
-<div class="paper-box">
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="/images/papers/Syn2Real.png" alt="Syn2Real" width="100%" /></div></div>
 <div class="paper-box-text">
 <p><a href="https://arxiv.org/abs/2608.24130">Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking</a></p>
 <p>Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Cu Quoc Le, Hoang-Khang Nguyen, Long Hoang Pham, Huy-Hung Nguyen, Quoc Pham-Nam Ho, Trinh Le Ba Khanh, Chi Dai Tran, Duong Khac Vu, <strong>Son Hong Phan</strong>, Hyung-Min Jeon, Jae Wook Jeon</p>
 <p><em>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2026</em></p>
-<p><a href="https://arxiv.org/abs/2608.24130">[arXiv]</a></p>
+<p><a href="https://arxiv.org/abs/2608.24130">[Paper]</a> <a href="https://arxiv.org/abs/2608.24130">[arXiv]</a></p>
 </div>
 </div>
 
-<div class="paper-box">
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="/images/papers/Rethinking.png" alt="Fisheye object detection 2026" width="100%" /></div></div>
 <div class="paper-box-text">
 <p><a href="https://arxiv.org/abs/2608.24154">Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection</a></p>
 <p>Long Hoang Pham, Quoc Pham-Nam Ho, Huy-Hung Nguyen, Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Cu Quoc Le, Hoang-Khang Nguyen, Hyung-Min Jeon, Chi Dai Tran, <strong>Son Hong Phan</strong>, Duong Khac Vu, Trinh Le Ba Khanh, Jae Wook Jeon</p>
 <p><em>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2026</em></p>
-<p><a href="https://arxiv.org/abs/2608.24154">[arXiv]</a></p>
+<p><a href="https://arxiv.org/abs/2608.24154">[Paper]</a> <a href="https://arxiv.org/abs/2608.24154">[arXiv]</a></p>
 </div>
 </div>
 
