@@ -66,6 +66,8 @@
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% elsif post.citation and post.arxivurl %}
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.arxivurl }}">arXiv</a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl and post.bibtexurl %}
@@ -78,6 +80,8 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% elsif post.arxivurl %}
+      <p><a href="{{ post.arxivurl }}">arXiv</a></p>
     {% endif %}
 
   </article>

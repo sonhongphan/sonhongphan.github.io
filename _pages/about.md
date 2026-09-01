@@ -17,11 +17,30 @@ You can find my publications on [Google Scholar](https://scholar.google.com/cita
 Recent news
 ======
 
+* **Aug 2026** — Two papers were accepted at **ICCVW 2026**: *Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking* and *Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection*.
 * **Jan 2026** — Our paper *TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions* was accepted at **AAAI 2026**.
 * **Oct 2025** — Two papers accepted at **ICCV 2025 Workshops**: *DepthTrack* (multi-camera 3D tracking) and *Data Augmentation is All You Need for Robust Fisheye Object Detection*.
 
 Publications
 ======
+
+<div class="paper-box">
+<div class="paper-box-text">
+<p><a href="https://arxiv.org/abs/2608.24130">Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking</a></p>
+<p>Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Cu Quoc Le, Hoang-Khang Nguyen, Long Hoang Pham, Huy-Hung Nguyen, Quoc Pham-Nam Ho, Trinh Le Ba Khanh, Chi Dai Tran, Duong Khac Vu, <strong>Son Hong Phan</strong>, Hyung-Min Jeon, Jae Wook Jeon</p>
+<p><em>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2026</em></p>
+<p><a href="https://arxiv.org/abs/2608.24130">[arXiv]</a></p>
+</div>
+</div>
+
+<div class="paper-box">
+<div class="paper-box-text">
+<p><a href="https://arxiv.org/abs/2608.24154">Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection</a></p>
+<p>Long Hoang Pham, Quoc Pham-Nam Ho, Huy-Hung Nguyen, Duong Nguyen-Ngoc Tran, Ngoc Doan-Minh Huynh, Cu Quoc Le, Hoang-Khang Nguyen, Hyung-Min Jeon, Chi Dai Tran, <strong>Son Hong Phan</strong>, Duong Khac Vu, Trinh Le Ba Khanh, Jae Wook Jeon</p>
+<p><em>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2026</em></p>
+<p><a href="https://arxiv.org/abs/2608.24154">[arXiv]</a></p>
+</div>
+</div>
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">AAAI 2026</div><img src="/images/papers/tsbow.jpg" alt="TSBOW dataset scenes" width="100%" /></div></div>
 <div class="paper-box-text">
@@ -85,6 +104,5 @@ Publications
 * _2022.03 - present_, Graduate Research Assistant, Sungkyunkwan University, Suwon, South Korea — research on computer vision, deep learning, machine learning; contributor to a Korean government-funded intelligent traffic monitoring system.
 * _2020.10 - 2021.11_, Software Engineer, LG R&D Vietnam, Hanoi, Vietnam.
 * _2019.08 - 2019.12_, Computer Vision Engineer (Internship), Viettel Group, Hanoi, Vietnam.
-
 
 

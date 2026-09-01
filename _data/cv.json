@@ -64,6 +64,20 @@
       "releaseDate": "2026-01-20",
       "website": "https://doi.org/10.1609/aaai.v40i7.37439",
       "summary": "A benchmark for traffic surveillance focusing on occluded vehicles under diverse weather conditions."
+    },
+    {
+      "name": "Rethinking Pre-Training and Augmentation for Zero-Shot Cross-City Object Detection",
+      "publisher": "IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+      "releaseDate": "2026-08-25",
+      "website": "https://arxiv.org/abs/2608.24154",
+      "summary": "A modular training pipeline that combines multi-dataset pre-training and domain-resilient augmentation for zero-shot cross-city object detection."
+    },
+    {
+      "name": "Syn2RealTrack: Bridging the Gap Between Synthetic and Real-World Datasets for Online Multi-View Multi-Target Tracking",
+      "publisher": "IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+      "releaseDate": "2026-08-25",
+      "website": "https://arxiv.org/abs/2608.24130",
+      "summary": "An online multi-view multi-target tracking pipeline that bridges the synthetic-to-real gap in warehouse environments."
     }
   ],
   "presentations": [],
