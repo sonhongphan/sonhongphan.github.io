@@ -52,11 +52,42 @@ Experience
 * 2019.08 – 2019.12: Computer Vision Engineer (Internship)
   * Viettel Group, Hanoi, Vietnam
 
-Skills
+Technical Skills
 ======
-* Python, PyTorch, OpenCV
-* Deep learning for object detection and multi-object tracking
-* Multi-camera systems and bird's-eye-view (BEV) perception
+* **Computer Vision:** Image Processing, Image Enhancement, Feature Extraction and Matching, Image Registration, Homography Estimation, Geometric Computer Vision, Object Detection, Image Classification, Semantic/Instance Segmentation, Optical Flow, Motion Estimation, Video Stabilization, Image Alignment, Image Stitching, Tracking, Multi-view Geometry, Camera Geometry, Perspective Transformation, Image/Video Quality Assessment.
+
+* **Deep Learning:** Convolutional Neural Networks (CNNs), Vision Transformers (ViTs), Attention Mechanisms, Encoder–Decoder Architectures, Siamese Networks, Contrastive Learning, Self-Supervised Learning, Transfer Learning, Representation Learning, Metric Learning, Generative Models, Diffusion Models, Flow Matching, Model Fine-Tuning, Loss Function Design, Feature Fusion, Multi-scale Learning.
+
+* **Machine Learning:** Supervised Learning, Unsupervised Learning, Semi-Supervised Learning, Classification, Regression, Clustering, Dimensionality Reduction, Feature Engineering, Model Selection, Cross-Validation, Hyperparameter Optimization, Performance Evaluation.
+
+* **Mathematics:** Linear Algebra, Matrix Analysis, Vector Calculus, Multivariable Calculus, Optimization, Numerical Methods, Probability Theory, Mathematical Statistics, Bayesian Statistics, Information Theory, Geometry, Projective Geometry.
+
+* **Probability & Statistics:** Random Variables, Probability Distributions, Expectation and Variance, Conditional Probability, Bayes' Theorem, Maximum Likelihood Estimation (MLE), Maximum A Posteriori Estimation (MAP), Hypothesis Testing, Confidence Intervals, Covariance and Correlation, Statistical Modeling, KL Divergence, Entropy, Cross-Entropy.
+
+* **Optimization:** Gradient Descent, Stochastic Gradient Descent (SGD), Adam/AdamW, Backpropagation, Convex Optimization Fundamentals, Regularization, Learning Rate Scheduling, Loss Function Optimization, Numerical Optimization.
+
+* **Programming Languages:** Python, C/C++, MATLAB.
+
+* **Deep Learning & Machine Learning Frameworks:** PyTorch, Torchvision, TensorFlow/Keras, scikit-learn.
+
+* **Computer Vision & Scientific Computing Libraries:** OpenCV, NumPy, SciPy, Pandas, Matplotlib, PIL/Pillow.
+
+* **Model Development:** Neural Network Architecture Design, Custom Loss Function Development, Training Pipeline Development, Dataset Preparation, Data Augmentation, Model Debugging, Ablation Studies, Hyperparameter Tuning, Model Evaluation, Inference Optimization.
+
+* **Research Skills:** Literature Review, Research Problem Formulation, Algorithm Design, Mathematical Modeling, Experimental Design, Benchmarking, Quantitative and Qualitative Analysis, Ablation Studies, Reproducible Research, Technical Writing, Research Paper Preparation.
+
+* **Evaluation & Analysis:** Accuracy, Precision, Recall, F1-score, IoU, mAP, PSNR, SSIM, LPIPS, EPE, Runtime/FPS, FLOPs, Parameter Analysis, Computational Complexity Analysis, Statistical Comparison of Experimental Results.
+
+* **Development Tools:** Git, GitHub, Linux/Ubuntu, Windows, Conda, pip, Jupyter Notebook, Visual Studio Code, PyCharm.
+
+* **GPU & High-Performance Computing:** CUDA, NVIDIA GPU-based Deep Learning, GPU Training and Inference, Mixed-Precision Training, Memory and Computational Optimization.
+
+* **Data Processing:** Dataset Collection and Preparation, Annotation Processing, Image/Video Preprocessing, Data Cleaning, Data Augmentation, Dataset Splitting, Batch Processing, Large-scale Experiment Management.
+
+* **Academic & Documentation Tools:** LaTeX, Overleaf, Microsoft Office, Technical Documentation, Scientific Visualization, Research Presentation.
+
+* **Languages:** Vietnamese — Native; English — Professional working proficiency, including reading academic papers, technical writing, research communication, and presentations.
+
 
 Publications
 ======
